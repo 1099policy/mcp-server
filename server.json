@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.1099policy/mcp",
+  "description": "Verify, quote and track contractor insurance in your 1099Policy account.",
+  "title": "1099Policy",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.1099policy.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/1099policy/mcp-server",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.1099policy.com/mcp"
+    }
+  ]
+}
