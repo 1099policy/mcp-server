@@ -3,8 +3,14 @@
   "name": "com.1099policy/mcp",
   "description": "Verify, quote and track contractor insurance in your 1099Policy account.",
   "title": "1099Policy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://www.1099policy.com/docs/mcp",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/1099policy/mcp-server/main/assets/icon.png",
+      "mimeType": "image/png"
+    }
+  ],
   "repository": {
     "url": "https://github.com/1099policy/mcp-server",
     "source": "github"
